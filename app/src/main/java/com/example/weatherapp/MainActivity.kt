@@ -9,7 +9,7 @@ import com.example.weatherapp.databinding.ActivityMainBinding
 import com.example.weatherapp.fragments.MainFragment
 
 
-const val API_KEY = "f49ccd589c2444769a4140421221706"
+
 class MainActivity : AppCompatActivity() {
     override fun onCreate(savedInstanceState: Bundle?) {
         super.onCreate(savedInstanceState)
